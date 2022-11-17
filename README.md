@@ -1,9 +1,7 @@
 # GIT vs. GitHub
 ## What is Git?
 
-  Git is an extremely popular version control system that is at the heart of a wide variety of high-profile projects. Git is installed and maintained on your local system (rather than in the cloud) and gives you a self-contained record of your ongoing programming versions. It can be used completely exclusive of any cloud-hosting service"
-
-
+  Git is an extremely popular version control system that is at the heart of a wide variety of high-profile projects. Git is installed and maintained on your local system (rather than in the cloud) and gives you a self-contained record of your ongoing programming versions. It can be used completely exclusive of any cloud-host.
 ___
 
 ## Git has three main states that your files can reside in: modified, staged, and committed:
