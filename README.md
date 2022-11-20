@@ -70,10 +70,9 @@ Using git branch will list all the branches of the repository Or you can use it 
 ## What Is GitHub?
 GitHub is a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code. 
 ___
-![!](git.png)
+![images](git.png)
 
 ## [Git vs. GitHub: What’s the Difference?](https://www.simplilearn.com/tutorials/git-tutorial/git-vs-github)
 The main Git vs GitHub difference is in their functionality. While they both provide source code management (SCM) and make merging and sharing code easier, this is pretty much where their similarities end. 
 
-[*]: https://www.simplilearn.com/tutorials/git-tutorial/git-vs-github
-[def]: https://www.simplilearn.com/tutorials/git-tutorial/git-vs-github
+[*]: (https://www.simplilearn.com/tutorials/git-tutorial/git-vs-github)
